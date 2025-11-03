@@ -1,6 +1,5 @@
 # Real Estate Price Prediction: Predicting Home Prices in Bangalore
 This project demonstrates the end-to-end Data Science workflow, from data acquisition and preprocessing to model building, evaluation, and web deployment. Using the Bangalore Home Prices dataset from Kaggle, the goal was to predict residential property prices based on multiple features such as location, total square footage, number of bedrooms (BHK), and bathrooms.<br><br>
-
 ![prediction result](bhp_website.png)
 
 🔍 ***Data Analysis & Preprocessing***
