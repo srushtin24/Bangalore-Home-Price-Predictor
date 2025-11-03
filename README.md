@@ -1,5 +1,5 @@
 # Real Estate Price Prediction: Predicting Home Prices in Bangalore
-This project demonstrates the end-to-end Data Science workflow, from data acquisition and preprocessing to model building, evaluation, and web deployment. Using the Bangalore Home Prices dataset from Kaggle, the goal was to predict residential property prices based on multiple features such as location, total square footage, number of bedrooms (BHK), and bathrooms.<br><br><br><br>
+This project demonstrates the end-to-end Data Science workflow, from data acquisition and preprocessing to model building, evaluation, and web deployment. Using the Bangalore Home Prices dataset from Kaggle, the goal was to predict residential property prices based on multiple features such as location, total square footage, number of bedrooms (BHK), and bathrooms.<br><br>
 
 
 🔍 ***Data Analysis & Preprocessing***
@@ -30,4 +30,45 @@ This project demonstrates the end-to-end Data Science workflow, from data acquis
 
 
 💡 ***Core Skills Demonstrated:***
-Data Cleaning • Exploratory Data Analysis • Feature Engineering • Linear Regression • Outlier Treatment • Dimensionality Reduction • Model Validation (K-Fold CV) • Hyperparameter Tuning • Flask API Development • End-to-End ML Deployment
+Data Cleaning • Exploratory Data Analysis • Feature Engineering • Linear Regression • Outlier Treatment • Dimensionality Reduction • Model Validation (K-Fold CV) • Hyperparameter Tuning • Flask API Development • End-to-End ML Deployment<br><br>
+
+
+⚙️ ***Tech Stack***
+
+*Languages & Libraries*
+Python – Data preprocessing, model building
+Pandas, NumPy – Data cleaning and manipulation
+Matplotlib, Seaborn – Data visualization
+Scikit-learn – Model training, evaluation, and optimization
+Flask – Backend server to serve model predictions
+HTML, CSS, JavaScript – Frontend for user interaction
+
+*Tools & Environment*
+Jupyter Notebook / VS Code / PyCharm – Development and experimentation
+Git & GitHub – Version control and code hosting
+
+
+
+🚀 ***How to Run Locally***
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/yourusername/Bangalore-Home-Price-Predictor.git
+cd Bangalore-Home-Price-Predictor
+
+2️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+3️⃣ Run the Flask Server
+Navigate to the server folder and run:
+
+python server.py
+
+4️⃣ Open the Frontend
+Navigate to the client folder and open:
+
+app.html
+
+
+You can now input property details and get real-time predicted prices!!
