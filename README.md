@@ -43,7 +43,7 @@ Scikit-learn – Model training, evaluation, and optimization<br>
 Flask – Backend server to serve model predictions<br>
 HTML, CSS, JavaScript – Frontend for user interaction<br>
 
-*Tools & Environment*
+*Tools & Environment*<br>
 Jupyter Notebook / VS Code / PyCharm – Development and experimentation<br>
 Git & GitHub – Version control and code hosting<br><br><br>
 
