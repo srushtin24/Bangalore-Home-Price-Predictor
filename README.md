@@ -45,8 +45,7 @@ Data Cleaning • Exploratory Data Analysis • Feature Engineering • Linear R
 
 *Tools & Environment*<br>
 - Jupyter Notebook / VS Code / PyCharm – Development and experimentation<br>
-- Git & GitHub – Version control and code hosting<br><br>
-
+- Git & GitHub – Version control and code hosting<br><br><br><br>
 
 
 🚀 ***How to Run Locally***
