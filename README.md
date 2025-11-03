@@ -36,16 +36,16 @@ Data Cleaning • Exploratory Data Analysis • Feature Engineering • Linear R
 ⚙️ ***Tech Stack***
 
 *Languages & Libraries*
-Python – Data preprocessing, model building
-Pandas, NumPy – Data cleaning and manipulation
-Matplotlib, Seaborn – Data visualization
-Scikit-learn – Model training, evaluation, and optimization
-Flask – Backend server to serve model predictions
-HTML, CSS, JavaScript – Frontend for user interaction
+Python – Data preprocessing, model building<br>
+Pandas, NumPy – Data cleaning and manipulation<br>
+Matplotlib, Seaborn – Data visualization<br>
+Scikit-learn – Model training, evaluation, and optimization<br>
+Flask – Backend server to serve model predictions<br>
+HTML, CSS, JavaScript – Frontend for user interaction<br>
 
 *Tools & Environment*
-Jupyter Notebook / VS Code / PyCharm – Development and experimentation
-Git & GitHub – Version control and code hosting
+Jupyter Notebook / VS Code / PyCharm – Development and experimentation<br>
+Git & GitHub – Version control and code hosting<br><br><br>
 
 
 
